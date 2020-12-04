@@ -13,7 +13,7 @@
 }
 body {
   color: #576366;
-  background: #5fcf80;
+  background: #ff3800;
   margin: 0;
   font-family: 'Roboto', sans-serif;
 }
@@ -45,7 +45,7 @@ hr {
 /* FORM & BUTTON STYLES -------- */
 
 .home a,
-input,
+/* input,
 button {
   padding: .5em;
   font-size: .9em;
@@ -62,7 +62,7 @@ button {
   padding-right: 1em;
   cursor: pointer;
   border-color: rgba(0,0,0, .1);
-}
+} */
 
 /* ================================= 
   LAYOUT & PAGE STYLES
@@ -117,7 +117,7 @@ header {
 .main-nav a:hover,
 .main-nav .active {
   color: #fff;
-  background: #3b80d1;
+  background: #ce2029;
 }
 
 /* MINI NAV -------- */
@@ -142,17 +142,8 @@ header {
   background: #39add1;
 }
 
-/* ICONS -------- */
+/* ICON --------- */
 
-.icn-logo {
-  background: #54606b;
-  color: #fff;
-}
-.icn-logo i {
-  font-size: 2.45em;
-  line-height: 0;
-  margin-top: 30px;
-}
 .icn-error {
   font-size: 3.2em;
   margin-bottom: .25em;
