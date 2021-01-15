@@ -13,7 +13,7 @@
 }
 body {
   color: #576366;
-  background: #ff3800;
+  background: #003153;
   margin: 0;
   font-family: 'Roboto', sans-serif;
 }
@@ -70,7 +70,7 @@ button {
 
 .container {
   width: 95%;
-  max-width: 780px;
+  max-width: 700x;
   padding-bottom: 2em;
   margin: 0 auto 2em;
   background: #fff;
@@ -79,7 +79,7 @@ button {
   overflow: hidden;
 }
 header {
-  background: #edeff0;
+  background: #BFCDE0;
   margin-bottom: 2em;
 }
 .main-content {
@@ -107,7 +107,7 @@ header {
 
 .main-nav a {
   font-size: .95em;
-  color: #222;
+  color: #fff;
   text-align: center;
   text-transform: uppercase;
   display: block;
@@ -117,7 +117,7 @@ header {
 .main-nav a:hover,
 .main-nav .active {
   color: #fff;
-  background: #ce2029;
+  background: #0f52ba;
 }
 
 /* MINI NAV -------- */

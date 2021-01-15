@@ -7,7 +7,7 @@ class Home extends Component {
     return (
       <div className="main-content home">
         <h2>NHD Project</h2>
-        <p></p>
+        <h3>Comunication: The Key To Understanding</h3>
       </div>
     );
   }
