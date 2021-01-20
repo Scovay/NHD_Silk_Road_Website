@@ -2,8 +2,9 @@ import React from 'react';
 
 const About = () => (
   <div className="main-content">
-    <h2>About Us</h2>
-    <h3></h3>
+    <h2>Background</h2>
+    <p>A bit about the Silk Road</p>
+    
   </div>
 );
 
