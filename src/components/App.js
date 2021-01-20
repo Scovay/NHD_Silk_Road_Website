@@ -8,11 +8,12 @@ import {
 //App components
 import Header from './Header';
 import Home from './Home';
-import About from './Background';
-import Items from './BuildUp';
-import People from './MainEvent'
+import Background from './Background';
+import BuildUp from './BuildUp';
+import mainEvents from './MainEvent';
+import LongTermImpact from './LongTermImpacts';
+import ShortTermImpact from './ShortTermImpacts'
 import NotFound from './NotFound';
-
 
 const App = () => (
   <BrowserRouter>
@@ -22,12 +23,14 @@ const App = () => (
       <Switch>
         {/* Defines all of the routes */}
         <Route exact path = "/" component = {Home} />
-        <Route path = "/background" component = {About} />
-        <Route exact path = "/buildUp" component = {Items} />
-        <Route exact path = "/mainEvent" component = {People} />
+        <Route exact path = "/background" component = {Background} />
+        <Route exact path = "/buildUp" component = {BuildUp} />
+        <Route exact path = "/mainEvent" component = {mainEvents} />
+        <Route exact path = "/longTermImpact" component = {LongTermImpact} />
+        <Route exact path = "/shortTermImpact" component = {ShortTermImpact} /> 
         <Route component = {NotFound} />
       </Switch>
-    </div>    
+    </div>
   </BrowserRouter>
 );
 
