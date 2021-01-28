@@ -22,6 +22,7 @@ h2,
 ul {
   margin: 0;
   padding: 0;
+  display: block;
 }
 h2 {
   color: #404040;
@@ -64,6 +65,41 @@ button {
   cursor: pointer;
   border-color: rgba(0,0,0, .1);
 } */
+
+/* MAIN SECTION STYLE */
+
+.float-container {
+  border: 3px solid #fff;
+  padding: 20px;
+}
+
+.person-card{
+  background: #C0C0C0;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 25px;
+  width: 47%;
+  float: left;
+}
+
+.person-card img{
+  max-height: 300px;
+  border-radius: 15px;
+}
+
+.float-child-left{
+  float: left;
+}
+
+.map-img{
+  width: 40%;
+  border-radius: 30px;
+}
+
+.reason-section{
+  margin-top: 25px;
+  width: 35%;
+}
 
 /* ================================= 
   LAYOUT & PAGE STYLES
