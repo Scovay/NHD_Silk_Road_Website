@@ -104,6 +104,9 @@ button {
   padding-left: 15px;
 }
 
+.ul-with-dot{
+  list-style-type: circle;
+}
 /* ================================= 
   LAYOUT & PAGE STYLES
 ==================================== */
