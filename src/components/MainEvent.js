@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Items = () => {
   return (
@@ -42,7 +43,9 @@ const Items = () => {
           <p>Was first used to trade for horses but as Emperor Wu of Han saw the quality and usefulness of the horse he wondered what other goods could be gained and then the silk road expanded into what we now know.</p>
         </div>
       </div>
+      <h2>Route The Silk Road Followed</h2>
       <img className = "map-img" src = "https://sites.google.com/a/dansvillecsd.org/migliore/_/rsrc/1468880830415/lessons-1/unit-2/the-han-dynasty/World%20History%20-%20Pearson%20eText%202.0%20%281%29.png" alt = "Silk Road Map"></img>
+      <Link to = "/itemsTraded"><button>Find Out What Items Were Traded Along the Silk Road</button></Link>
     </div>
   )
 }

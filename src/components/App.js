@@ -14,6 +14,7 @@ import mainEvents from './MainEvent';
 import LongTermImpact from './LongTermImpacts';
 import ShortTermImpact from './ShortTermImpacts'
 import NotFound from './NotFound';
+import Items from './Items.js';
 
 const App = () => (
   <BrowserRouter>
@@ -27,7 +28,8 @@ const App = () => (
         <Route exact path = "/buildUp" component = {BuildUp} />
         <Route exact path = "/mainEvent" component = {mainEvents} />
         <Route exact path = "/longTermImpact" component = {LongTermImpact} />
-        <Route exact path = "/shortTermImpact" component = {ShortTermImpact} /> 
+        <Route exact path = "/shortTermImpact" component = {ShortTermImpact} />
+        <Route exact path = "/itemsTraded" component = {Items} /> 
         <Route component = {NotFound} />
       </Switch>
     </div>
