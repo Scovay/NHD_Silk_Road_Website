@@ -38,12 +38,12 @@ const Items = () => {
         </ul>
         <h2>Professions of the Silk Road</h2>
         <ul>
-          <li>- Merchant</li>
-          <li>- Guard</li>  
-          <li>- Bandits</li>
-          <li>- Translators</li>
-          <li>- Guides</li>
-          <li>- Sailors</li>
+          <li> - Merchant</li>
+          <li> - Guard</li>  
+          <li> - Bandits</li>
+          <li> - Translators</li>
+          <li> - Guides</li>
+          <li> - Sailors</li>
         </ul>
       </div>
       <h2>Route The Silk Road Followed</h2>

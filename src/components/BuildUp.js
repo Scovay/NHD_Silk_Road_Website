@@ -5,6 +5,8 @@ const Items = () => {
     <div className = "main-content">
       <h2>Items Traded</h2>
       <p></p>
+      <h2>Zhang Qian acting as an emissionary</h2>
+      <img src = "https://www.chinadiscovery.com/assets/images/silk-road/history/zhangqian-650.jpg" alt = "Zhang Qian Meeting With the West"></img>
     </div>
   )
 }
