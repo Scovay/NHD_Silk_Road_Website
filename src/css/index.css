@@ -137,6 +137,10 @@ header {
   margin-bottom: 1em;
 }
 
+.text-blurb {
+  width: 55%;
+}
+
 /* IMAGES -------- */
 
 .course-img {
@@ -190,12 +194,6 @@ header {
 .icn-error {
   font-size: 3.2em;
   margin-bottom: .25em;
-}
-
-/* IMPACT --------- */
-
-.impact-blurb {
-  width: 55%;
 }
 
 /* ================================= 
