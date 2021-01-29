@@ -64,6 +64,11 @@ const Items = () => {
       fleas to search for new hosts. The fleas then transferred onto camels and humans in caravans that traveled the Silk Road. The Silk Road due to it’s growing popularity was able to 
       effectively spread the disease through land and sea routes and transfer it to europe.</p>
       <hr></hr>
+      <h2>Caravanserais</h2>
+      <p>
+      Caravanserais were ideally positioned within a day’s journey of each other, so as to prevent merchants (and more particularly, their precious cargos) from spending nights exposed to the dangers of the road. On average, this resulted in a caravanserai every 30 to 40 kilometres in well-maintained areas, such as along the Great Trunk Road that ran through northern India and into Pakistan. Additionally, some had fortified walls and doubled as military strongholds or outposts, known as rabats, particularly those positioned near frontiers or borders. They also played a role in communicating both regional and international news across Central Asia, and for instance, under the Mughal emperors of the 16th century, the caravanserais of the Great Trunk Road in northern India were supplied with messenger horses, ready to pass on any important news carried by travellers.
+      </p>
+      <hr></hr>
       <Link to = "/itemsTraded"><button>Find Out What Items Were Traded Along the Silk Road</button></Link>
     </div>
   )
