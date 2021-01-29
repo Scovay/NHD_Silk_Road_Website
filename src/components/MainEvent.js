@@ -64,8 +64,11 @@ const Items = () => {
       fleas to search for new hosts. The fleas then transferred onto camels and humans in caravans that traveled the Silk Road. The Silk Road due to it’s growing popularity was able to 
       effectively spread the disease through land and sea routes and transfer it to europe.</p>
       <hr></hr>
+      <h2>Religion On The Silk Road</h2>
+      <p className = "text-blurb">Religious beliefs of the peoples of the Silk Road changed radically over time and was largely due to the effects of travel and trade on the Silk Road itself. For over two thousand years the Silk Road was a network of roads for the travel and dissemination of religious beliefs across Eurasia.</p>
+      <hr></hr>
       <h2>Caravanserais</h2>
-      <p>
+      <p className = "text-blurb">
       Caravanserais were ideally positioned within a day’s journey of each other, so as to prevent merchants (and more particularly, their precious cargos) from spending nights exposed to the dangers of the road. On average, this resulted in a caravanserai every 30 to 40 kilometres in well-maintained areas, such as along the Great Trunk Road that ran through northern India and into Pakistan. Additionally, some had fortified walls and doubled as military strongholds or outposts, known as rabats, particularly those positioned near frontiers or borders. They also played a role in communicating both regional and international news across Central Asia, and for instance, under the Mughal emperors of the 16th century, the caravanserais of the Great Trunk Road in northern India were supplied with messenger horses, ready to pass on any important news carried by travellers.
       </p>
       <hr></hr>
