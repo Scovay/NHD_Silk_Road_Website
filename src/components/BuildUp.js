@@ -4,7 +4,7 @@ const Items = () => {
   return (
     <div className = "main-content">
       <h1>Timeline</h1>
-      <img src = "https://i.postimg.cc/bwP00Y5k/Timeline.png" alt = "Timeline Of World Events"></img>
+      <img src = "https://i.postimg.cc/8NJySjBK/Timeline.png" alt = "Timeline Of World Events"></img>
       <hr></hr>
       <h1>Major World Events</h1><br></br><br></br>
       <h2>Alexander the Great</h2>
