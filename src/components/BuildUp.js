@@ -4,7 +4,7 @@ const Items = () => {
   return (
     <div className = "main-content">
       <h1>Timeline</h1>
-      <img src = "https://gm1.ggpht.com/a7cCqGhm6WyQdveGK2Xp-4gsYr-_qCYTrOvkU20J2ZyYSKHJVAtuLrcGbY0r7sAAFkqp5WAQ3tuWqFvNB11RtlIWpfq1lRwuHl8l2XFIjAMYib8ZHrdzECKQF-FEaRNSrG7cq2wW5jcFGjOL3MnGxMFoHbxR5Myjj8dX0GNNoQVewmLeBO8rnTqrybggTfTmo2X4REuQxC3FGYGcVvpeWngscY2ZqbcYaYwm94EgScMy6AWyDRYe0a5RbyBfBhYHCZjJRCTX3pjZ619vUUt6ZULoGkkq4IIUB_vJpcFzDxXSW7xpnH6iqccL4kqBTQWona0ZOoCnGL_fj71P1bE4RahgcfGk-7-rvkpsvLVFLuM5Rt7YbxYJzW7c9KagTKjX1HLn2gNod6s4lwjM-HNcqJPW1oK26DWeRbxdw5cjgHzmFCysisC7ZeZlZrOEPbnmYaAy97zkbM-luWYnZd-AZ9w06w3a-Gtwa6EK-9me7ypZse5JGCEx2c0bi7L7_5Fi0XRgqwluvauKbx9cnFJfdmzSm3Zc73NxZplelaONteaJePJtzdlIvlhhFa6orNI2BDo4Q1LU3LH2uokxnPRwstPFWcygHH-Oh1hpt8dgQgkVt8M8Fg7xFyqohHemfSGj97w7lU4tJqMuouGuj1TLPjhUKQCmURJwePXwuUd1RKagn4i09HgC_cojjeoKtJaMLEKYv5GPkaeHWUM0ohNoMEn_VPf8up-8iQcQwPY0QH65F0BdL4-mqDejlDxGx1cuJLk=s0-l75-ft-l75-ft" alt = "Timeline Of World Events"></img>
+      <img src = "https://i.postimg.cc/bwP00Y5k/Timeline.png" alt = "Timeline Of World Events"></img>
       <hr></hr>
       <h1>Major World Events</h1><br></br><br></br>
       <h2>Alexander the Great</h2>
