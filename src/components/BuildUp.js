@@ -11,11 +11,13 @@ const Items = () => {
       <p className = "text-blurb">
       Alexander the Great made a ton of development to the making of the Silk Road. At about 330 BC, he successfully defeated Greece, Egypt, the Persian Empire, and Northern India. During his tremendous conquest, he founded many important trading cities which later became financial centers of trade. At around 200 BC, Alexander finally reached Kashgar which was the very very first contact between China and Europe.
       </p>
+      <img src = "https://www.chinadiscovery.com/assets/images/silk-road/history/Alexander-650.jpg" alt = "Alexander The Great"></img>
       <hr></hr>
       <h2>Banchao Conquered the Western Regions</h2>
       <p className = "text-blurb">
       After the fall of the Western Han Dynasty, the Silk Road had shut down because of frequent wars in the Western Region between the countries in that region. In the Eastern Han Dynasty, Banchao was an envoy to strengthen communication between Eastern Han and the Western Region. During his 31 years in the Western Regions, Banchao had taken control of more than 50 small countries, and was able to open the Silk Road again.
       </p>
+      <img src = "https://www.chinadiscovery.com/assets/images/silk-road/history/banchao.jpg" alt = "Banchao"></img>
       <hr></hr>
       <h2>Tang Dynasty Reopens the Route</h2>
       <p className = "text-blurb">
