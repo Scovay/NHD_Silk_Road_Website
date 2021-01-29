@@ -1,4 +1,4 @@
-China
+ - China
     - Silk
     - Rice
     - Tea
@@ -10,7 +10,7 @@ China
     - Purfumes
     - Bronze mirrors
     - Umbrellas
-Europe/West
+ - Europe/West
     - Horses
     - Misc. Veggies And Fruits
         - String Beans
@@ -20,13 +20,13 @@ Europe/West
         - Pomegranates
         - Grapes
         - Figs
-East Mediterranean
+ - East Mediterranean
     - Woolen Goods
     - Carpets
     - Curtains
     - Blankets
     - Rugs
-Central Asia
+ - Central Asia
     - Camels
     - Silver
     - Gold
@@ -40,7 +40,7 @@ Central Asia
     - Lions
     - Leapords
     - Dogs
-India
+ - India
     - Fabrics
     - Spices
     - Dyes

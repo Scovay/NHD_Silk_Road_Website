@@ -23,11 +23,13 @@ const Items = () => {
           </div>
         </div>
       </center>
+      <hr></hr>
       <div>
         <div className = "reason-section">
           <h2>Reason For Devlopment:</h2>
           <p>Was first used to trade for horses but as Emperor Wu of Han saw the quality and usefulness of the horse he wondered what other goods could be gained and then the silk road expanded into what we now know.</p>
         </div>
+        <hr></hr>
         <h2>Goverments/Countries involved with the silk road</h2>
         <ul>
           <li> - Every Chinese Dynasty and their involvement (especially the Han)</li>
@@ -36,6 +38,7 @@ const Items = () => {
           <li> - Arabia</li>
           <li> - India</li>
         </ul>
+        <hr></hr>
         <h2>Professions of the Silk Road</h2>
         <ul>
           <li> - Merchant</li>
@@ -46,8 +49,20 @@ const Items = () => {
           <li> - Sailors</li>
         </ul>
       </div>
+      <hr></hr>
       <h2>Route The Silk Road Followed</h2>
       <img className = "map-img" src = "https://sites.google.com/a/dansvillecsd.org/migliore/_/rsrc/1468880830415/lessons-1/unit-2/the-han-dynasty/World%20History%20-%20Pearson%20eText%202.0%20%281%29.png" alt = "Silk Road Map"></img>
+      <hr></hr>
+      <h2>Diseases Of The Silk Road</h2>
+      <p>The Silk Road also spread lots of diseases along the route and infected lots of people, Smallpox and Measles moved from the west to the east. 
+      There were also numerous parasites that moved from the east to the west mainly from China including, Liver Fluke, Roundworm, Whipworm, and Tapeworm. 
+      To combat the spread of parasites due to bad hygiene people developed the “Hygiene Stick” an early version of toilet paper. It was a stick generally bamboo or 
+      wood with a piece of cloth wrapped around the end to act as toilet paper.</p>
+      <p>Another disease that most people know that spread along the Silk Road is the Bubonic Plague which caused the Black Death in 1347. 
+      With the Silk road not only being one road it also spread the Plague in other places like Africa, India, and Mongol. This is generally blamed on Yersinia pestis, 
+      a disease that manifests itself in fleas that infect rats. During that time period due to climate fluctuations the rat population in Mogol deminised severely which caused lots of 
+      fleas to search for new hosts. The fleas then transferred onto camels and humans in caravans that traveled the Silk Road. The Silk Road due to it’s growing popularity was able to 
+      effectively spread the disease through land and sea routes and transfer it to europe.</p>
       <Link to = "/itemsTraded"><button>Find Out What Items Were Traded Along the Silk Road</button></Link>
     </div>
   )
